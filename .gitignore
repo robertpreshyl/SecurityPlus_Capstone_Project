@@ -1,0 +1,12 @@
+# Development files
+.dev/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
