@@ -68,15 +68,17 @@ The project follows the 5 Security+ exam domains:
 
 ## Progress
 
-Im working through these phase by phase. Check the individual folders for completed deliverables.
+This project demonstrates systematic security assessment methodology following Security+ exam domains. It mirrors real-world consulting engagements where assessments are conducted in phases aligned with client priorities and resource availability.
 
-| Phase | Status |
-|-------|--------|
-| Phase 1 | 🔄 In Progress |
-| Phase 2 | ⬜ Not Started |
-| Phase 3 | ⬜ Not Started |
-| Phase 4 | ⬜ Not Started |
-| Phase 5 | ⬜ Not Started |
+| Phase | Domain | Status |
+|-------|--------|--------|
+| Phase 1 | General Security Concepts | 🔄 In Progress |
+| Phase 2 | Threats & Vulnerabilities | 📋 Planned |
+| Phase 3 | Security Architecture | 📋 Planned |
+| Phase 4 | Security Operations | 📋 Planned |
+| Phase 5 | Program Management | 📋 Planned |
+
+Additional phases will be completed as part of ongoing professional development and CompTIA continuing education requirements.
 
 ## Frameworks & Standards Used
 
@@ -90,12 +92,12 @@ Im working through these phase by phase. Check the individual folders for comple
 
 ## About Me
 
-I'm Precious Robert, a cybersecurity analyst based in Finland. Background in industrial Engineering,  which gives me a unique perspective on OT/ICS security that most IT security folks dont have.
+I'm Precious Robert, a cybersecurity analyst based in Finland. Background in industrial Engineering.
 
 **Certifications:**
 - CompTIA Security+ (SY0-701) - Jan 2026
 - Google Cybersecurity Professional Certificate
-- Universal Robots e-Series Automation
+
 
 **Contact:**
 - LinkedIn: [linkedin.com/in/precious-robert](https://linkedin.com/in/precious-robert)
@@ -117,5 +119,3 @@ Feel free to fork this and adapt it for your own learning. Just dont copy paste 
 This project is for educational purposes. The company (NordicShield) is fictional. Any resemblance to real companies is coincidental.
 
 ---
-
-*Built while listening to way too much lofi hip hop and drinking Finnish coffee ☕*
