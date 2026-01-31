@@ -299,8 +299,6 @@ To validate Zero Trust Network Access (ZTNA) concepts before full NordicShield d
 
 *Figure D.3.1: Zero Trust Access Architecture using identity-based authentication, private VPN overlay (100.64.0.0/16), and containerized workspace delivery*
 
-> **TODO**: Save your architecture diagram image as `netbird-kasm-zitadel-architecture.png` in the `Phase_1_General_Security_Concepts/images/` folder.
-
 **Key Security Principles Implemented:**
 
 | Zero Trust Principle | Implementation |
@@ -346,9 +344,7 @@ Security Boundaries:
 ### D.3.4 Demonstration & Documentation
 
 **Video Demonstration:**
-📺 [Zero Trust Remote Workspace Architecture with Kasm, NetBird & ZITADEL (Secure Browser-Based Access)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> **TODO**: Replace YOUR_VIDEO_ID with your actual YouTube video ID from the URL
+📺 [Zero Trust Remote Workspace Architecture with Kasm, NetBird & ZITADEL (Secure Browser-Based Access)](https://youtu.be/1rHPworhH1k?si=D53YsjCsHPILWMOl)
 
 **Key Highlights from Demo:**
 - User onboarding workflow (ZITADEL SSO → NetBird VPN enrollment → Kasm workspace access)
