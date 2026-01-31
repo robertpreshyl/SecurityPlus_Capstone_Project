@@ -295,7 +295,7 @@ To validate Zero Trust Network Access (ZTNA) concepts before full NordicShield d
 
 **Architecture Components:**
 
-![Zero Trust Architecture - NetBird VPN + Kasm Workspaces + ZITADEL](images/netbird-kasm-zitadel-architecture.png)
+![Zero Trust Architecture - NetBird VPN + Kasm Workspaces + ZITADEL](images/AsLabs_ZeroTrust_NetBird-Kasm.png)
 
 *Figure D.3.1: Zero Trust Access Architecture using identity-based authentication, private VPN overlay (100.64.0.0/16), and containerized workspace delivery*
 
@@ -491,8 +491,6 @@ For IoT deployments at customer facilities:
 | API security (OAuth 2.0, mTLS) | 3.1, 4.4 | Technical |
 
 ---
-
-# SECTION H: EXECUTIVE SUMMARY
 
 # SECTION H: EXECUTIVE SUMMARY
 
