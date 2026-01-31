@@ -165,17 +165,17 @@ Emergency Change Process:
 
 | Field | Required | Description |
 |-------|----------|-------------|
-| Change Title | ☑ Yes | [YOUR INPUT] |
-| Requester | ☑ Yes | [YOUR INPUT] |
-| Business Justification | ☑ Yes | [YOUR INPUT] |
-| Systems Affected | ☑ Yes | [YOUR INPUT - Link to asset inventory] |
-| Implementation Plan | ☑ Yes | [YOUR INPUT] |
-| Rollback Plan | ☑ Yes | [YOUR INPUT] |
-| Test Plan | ☑ Yes | [YOUR INPUT] |
-| Scheduled Window | ☑ Yes | [YOUR INPUT] |
-| Estimated Duration | ☑ Yes | [YOUR INPUT] |
-| Security Impact Assessment | ☑ Yes | [YOUR INPUT] |
-| Communication Plan | ☐ Depends | [YOUR INPUT - When required?] |
+| Change Title | ☑ Yes | Brief description of the change (e.g., "Upgrade Jira to v9.12", "Add firewall rule for Austin office") |
+| Requester | ☑ Yes | Name and department of person requesting change |
+| Business Justification | ☑ Yes | Why this change is needed and business value/urgency |
+| Systems Affected | ☑ Yes | Asset IDs from inventory (e.g., SRV-004, NET-007) or service names |
+| Implementation Plan | ☑ Yes | Step-by-step procedures; commands to be executed; configuration changes |
+| Rollback Plan | ☑ Yes | Exact steps to undo the change if it fails; recovery procedures |
+| Test Plan | ☑ Yes | How success will be validated; specific tests to perform post-implementation |
+| Scheduled Window | ☑ Yes | Proposed date and time (UTC) for implementation |
+| Estimated Duration | ☑ Yes | Expected time to complete (e.g., 2 hours, 30 minutes) |
+| Security Impact Assessment | ☑ Yes | Does this change affect authentication, authorization, encryption, network access, or data handling? |
+| Communication Plan | ☐ Depends | Required if customer-facing or affects >100 users; email/Slack notification template |
 
 ### Change Request Form Template
 
@@ -186,13 +186,18 @@ REQUESTER:
 DEPARTMENT:
 
 CHANGE DESCRIPTION:
-[YOUR INPUT - What format?]
+(Describe what will be changed and how. Example: "Upgrade PostgreSQL database 
+from v13.8 to v14.10 on SRV-004 to address CVE-2023-xxxxx and improve query 
+performance for customer dashboard.")
 
 BUSINESS JUSTIFICATION:
-[YOUR INPUT]
+(Why is this change necessary? Example: "Critical security vulnerability (CVSS 8.2) 
+with public exploit available. Query performance degradation affecting customer 
+experience. Vendor ending support for v13 in 3 months.")
 
 SYSTEMS/ASSETS AFFECTED:
-[YOUR INPUT - Reference asset IDs from inventory]
+(List asset IDs from inventory. Example: "SRV-004 (Production Database Server), 
+NET-007 (Core Switch - firewall rules), APP-002 (NordicSense API Server)")
 
 RISK ASSESSMENT SCORE: [X/15]
 

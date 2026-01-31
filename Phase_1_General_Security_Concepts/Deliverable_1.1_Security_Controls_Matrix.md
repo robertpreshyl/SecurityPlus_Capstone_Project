@@ -315,7 +315,7 @@ Top 3 Recommendations:
 2. 30-90 DAYS: Complete SIEM deployment and establish policy framework
 3. 90+ DAYS: Implement Zero Trust architecture for global expansion
 
-Prepared by: Precious Robert, Security Analyst
+Prepared by: Robert Preshyl, Security Analyst
 Date: January 31, 2026
 ```
 
@@ -329,7 +329,7 @@ Date: January 31, 2026
 | **Phase** | 1 - General Security Concepts |
 | **Exam Objective** | 1.1 - Compare and contrast various types of security controls |
 | **Status** | ✅ Complete |
-| **Completed By** | Precious Robert |
+| **Completed By** | Robert Preshyl |
 | **Completion Date** | January 31, 2026 |
 
 ---
