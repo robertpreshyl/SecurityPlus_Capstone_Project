@@ -71,7 +71,7 @@ In this phase, you will establish the foundational security framework for Nordic
 | 1.2 | CIA Requirements Document | `Deliverable_1.2_CIA_Requirements.md` | ✅ Complete |
 | 1.3 | Zero Trust Architecture Plan | `Deliverable_1.3_Zero_Trust_Architecture.md` | ✅ Complete |
 | 1.4 | Change Management Policy | `Deliverable_1.4_Change_Management_Policy.md` | ✅ Complete |
-| 1.5 | Cryptographic Standards | `Deliverable_1.5_Cryptographic_Standards.md` | ⬜ Not Started |
+| 1.5 | Cryptographic Standards | `Deliverable_1.5_Cryptographic_Standards.md` | ✅ Complete |
 
 ---
 
