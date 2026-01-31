@@ -41,7 +41,7 @@ This matrix documents all security controls currently implemented at NordicShiel
 | TC-014 | DNS Filtering | Technical | Preventive | Cloudflare | 3 | External DNS only, no internal filtering |
 | TC-015 | Data Loss Prevention | Technical | Preventive, Detective | Not implemented | 1 | No DLP solution in place |
 
-### Your Analysis - Technical Controls
+### Technical Controls Analysis
 
 **Strengths Identified:**
 ```
@@ -78,7 +78,7 @@ This matrix documents all security controls currently implemented at NordicShiel
 | MC-009 | Acceptable Use Policy | Managerial | Directive, Deterrent | Does not exist | 1 | No formal AUP documented |
 | MC-010 | Access Control Policy | Managerial | Directive | AD groups exist | 2 | Technical controls exist, no policy |
 
-### Your Analysis - Managerial Controls
+### Managerial Controls Analysis
 
 **Current State Assessment:**
 ```
@@ -114,7 +114,7 @@ Immediate action required: Develop foundational ISMS documentation before ISO 27
 | OC-009 | Configuration Management | Operational | Preventive | As needed | DevOps | 3 | Ansible/Terraform |
 | OC-010 | Employee Onboarding/Offboarding | Operational | Preventive | Per event | HR/IT | 3 | Checklist exists |
 
-### Your Analysis - Operational Controls
+### Operational Controls Analysis
 
 **Process Maturity Assessment:**
 ```
@@ -164,9 +164,9 @@ Priority: Establish documented procedures for incident handling and patch manage
 | PC-009 | Visitor Management | Physical | Preventive, Detective | Reception desk | Reception | 2 | Manual sign-in log |
 | PC-010 | Security Lighting | Physical | Deterrent | Exterior fixtures | Exterior | 3 | Motion-activated lighting |
 
-### Your Analysis - Physical Controls
+### Physical Controls Analysis
 
-**Physical Security Assessment:**
+**Physical Security Assessment:****
 ```
 NordicShield's physical security at Turku HQ is relatively mature, with good defense-in-depth for the data center. Key findings:
 
