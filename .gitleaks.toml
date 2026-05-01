@@ -1,0 +1,4 @@
+[allowlist]
+paths = [
+  '''Phase_1_General_Security_Concepts/Deliverable_1\.5_Cryptographic_Standards\.md''',
+]
